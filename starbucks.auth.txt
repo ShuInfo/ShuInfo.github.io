@@ -1,0 +1,6 @@
+https://3pp.starbucks.com.cn/wxmem
+https://bff.starbucks.com.cn
+https://active.starbucks.com.cn/wxmini_vanilla/prod
+
+appId: 'wxeb490c6f9b154ef9'
+cardId: 'puMrkq0fCXAi5WaMT_mEaxvbtuWI'
